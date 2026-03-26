@@ -10,17 +10,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # About Me
-Hi! I am Jia, a Doctoral Candidate in Communication at the University of Illinois Urbana-Champaign. I obtained by Bachelor's degree in Communication and Social Psychology, and Master's degree in Communication both at Illinois before continuing to the Doctoral program. 
+Hi! I am Jia, a Doctoral Candidate in Communication at the University of Illinois Urbana-Champaign. I obtained my Bachelor’s degree in Communication and Social Psychology, and my Master’s degree in Communication, both from Illinois, before continuing into the doctoral program.
 
 I study how communication within interpersonal relationships promotes mental and physical well-being. My research primarily focuses on supportive communication in health-related contexts, especially when individuals experience identity threats related to their health conditions. I also examine how health recommendations communicated in interpersonal contexts shape people’s cognitive appraisals and behavioral intentions.
 
-### Education
+## Education
 - *2020.08 - 2022.05*, M.A., Communication, University of Illinois Urbana-Champaign
 - *2016.08 - 2020.05*, B.A., Communication and Psycholoy, University of Illinois Urbana-Champaign 
 
 <span class='anchor' id='news'></span>
 # 📬 News
-- *2026.04*: &nbsp; 🎤 My collaborated paper, *Do actions speak louder? The primacy of verbal person-centered support for patients with invisible illness*, will be presented at Kentucky Conference on Health Communication in Lexington, KY.
+- *2026.04*: &nbsp; 🎤 My coauthored paper, *Do actions speak louder? The primacy of verbal person-centered support for patients with invisible illness*, will be presented at the Kentucky Conference on Health Communication in Lexington, KY.
  
 - *2026.06*: &nbsp; 🎤 I will present our paper *Understanding young adult cancer patients’ support-seeking struggles in personal relationships* at the 76th Annual International Communication Association Conference in Cape Town, South Africa.
 
@@ -38,11 +38,11 @@ Quick, B., Caban, S., Chung, M., & **Yan, J.** (2025). Introducing Health Commun
 Thompson, C. M., Bishop, M. J., Dillard, T. C., Maurice, J. M., Rollins, D. D., Pulido, M. D., Salas, M. J., Mendelson, E. A., **Yan, J.**, Gerlikovski, E. R., Benevento, S. V., Zeinstra, C., & Kesavadas, T. (2025). Healing health care disparities: A pilot test of a virtual reality implicit bias training module for physicians in the context of Black maternal health. *Health Communication*. https://doi.org/10.1080/10410236.2024.2347000
 
 ## Work in Progress
-**Yan, J.**, Guntzviller, L. M., & Bigsby, E. (R&R Under Review). The influence of recommendation source on psychological reactance: A study among Black, Latino, and White participants. *Jounal blinded for peer review.*
+**Yan, J.**, Guntzviller, L. M., & Bigsby, E. (R&R Under Review). The influence of recommendation source on psychological reactance: A study among Black, Latino, and White participants. *Journal blinded for peer review.*
 
-**Yan, J.**, Guntzviller, L. M., Iannarino, N. T., Wang, N. O., Ray, C. D. (Under Review). Understanding young adult cancer patients’ support-seeking struggles in personal relationships. *Jounal blinded for peer review.*
+**Yan, J.**, Guntzviller, L. M., Iannarino, N. T., Wang, N. O., Ray, C. D. (Under Review). Understanding young adult cancer patients’ support-seeking struggles in personal relationships. *Journal blinded for peer review.*
 
-Liao, D., Hildenbrand, G., **Yan, J.**, & Chen, H. (Revise & Resubmit). Do actions speak louder? The primacy of verbal person-centeredness for patients with invisible illness. *Jounal blinded for peer review.*
+Liao, D., Hildenbrand, G., **Yan, J.**, & Chen, H. (Revise & Resubmit). Do actions speak louder? The primacy of verbal person-centeredness for patients with invisible illness. *Journal blinded for peer review.*
 
 Guntzviller, L. M., Caughlin, J. P., **Yan, J.**, & Han, J. (Expected 2026). Historical Landscape of Support Theory. In Faw, H., Pederson, J. R., Holmstrom, A. J., & High, A. C. (Eds.), *The Routledge Handbook of Supportive Communication*. 
 
