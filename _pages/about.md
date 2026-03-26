@@ -20,7 +20,7 @@ I study how communication within interpersonal relationships promotes mental and
 
 <span class='anchor' id='news'></span>
 # 📬 News
-- *2026.04*: &nbsp; 🎤 My coauthored paper, *Do actions speak louder? The primacy of verbal person-centered support for patients with invisible illness*, will be presented at the Kentucky Conference on Health Communication in Lexington, KY.
+- *2026.04*: &nbsp; 🎤 My coauthored paper *Do actions speak louder? The primacy of verbal person-centered support for patients with invisible illness* will be presented at the Kentucky Conference on Health Communication in Lexington, KY.
  
 - *2026.06*: &nbsp; 🎤 I will present our paper *Understanding young adult cancer patients’ support-seeking struggles in personal relationships* at the 76th Annual International Communication Association Conference in Cape Town, South Africa.
 
