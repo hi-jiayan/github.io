@@ -40,6 +40,9 @@ Quick, B., Caban, S., Chung, M., & **Yan, J.** (2025). Introducing Health Commun
 
 Thompson, C. M., Bishop, M. J., Dillard, T. C., Maurice, J. M., Rollins, D. D., Pulido, M. D., Salas, M. J., Mendelson, E. A., **Yan, J.**, Gerlikovski, E. R., Benevento, S. V., Zeinstra, C., & Kesavadas, T. (2025). Healing health care disparities: A pilot test of a virtual reality implicit bias training module for physicians in the context of Black maternal health. *Health Communication*. <https://doi.org/10.1080/10410236.2024.2347000>
 
+Liao, D., **Yan, J.**, & Wilson, S. R. (2023). How does physician (non)accommodation affect patient behavioral intention? Using a web-based experiment to examine indirect effects of language type on behavioral intentions through goal inferences and source appraisals. *Journal of Health Communication*. <https://doi.org/10.1080/10810730.2023.2237435>
+
+
 ## Work in Progress
 **Yan, J.**, Guntzviller, L. M., & Bigsby, E. (R&R Under Review). The influence of recommendation source on psychological reactance: A study among Black, Latino, and White participants. *Journal blinded for peer review.*
 
