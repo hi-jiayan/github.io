@@ -7,7 +7,8 @@
 
 # Site Settings
 title                    : "Jia Yan"
-description              : #"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : #Doctoral Candidate in Communication
+                            University of Illinois Urbana-Champaign"
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
