@@ -9,8 +9,12 @@ redirect_from:
 ---
 
 <span class='anchor' id='about-me'></span>
-<span class='anchor' id='Publications'></span>
+<span class='anchor' id='news'></span>
+<span class='anchor' id='publications'></span>
+<span class='anchor' id='Funding, honors, and awards'></span>
 
+
+# About Me
 Hi! I am Jia, a Doctoral Candidate in Communication at the University of Illinois Urbana-Champaign. I obtained by Bachelor's degree in Communication and Social Psychology, and Master's degree in Communication both at Illinois before continuing to the Doctoral program. 
 
 I study how communication within interpersonal relationships promotes mental and physical well-being. My research primarily focuses on supportive communication in health-related contexts, especially when individuals experience identity threats related to their health conditions. I also examine how health recommendations communicated in interpersonal contexts shape people’s cognitive appraisals and behavioral intentions.
@@ -47,7 +51,7 @@ Guntzviller, L. M., Caughlin, J. P., **Yan, J.**, & Han, J. (Expected 2026). His
 Guntzviller, L. M., **Yan, J.**, Bigsby, E., Liao, D., Pool, K. E., Kelpinski, L. F., & Jacobs Farnworth, M. (Manuscript in Preparation). Considering the role of the advisor and their characteristics within advice response theory: Testing and comparing three models across White, Black, and Latino participants. 
 
 
-# 🎖 Funding, Honors and Awards
+# 🎖 Funding, Honors, and Awards
 - *2025* **Ruth Anne Clark Award** ($1600 for dissertation research)<br>
   *Department of Communication, University of Illinois Urbana-Champaign*
   
