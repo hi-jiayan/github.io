@@ -34,6 +34,8 @@ Across these areas, my research advances a broader goal of understanding how com
 <span class='anchor' id='publications'></span>
 # 📝 Publications 
 
+**Yan, J.**, Guntzviller, L. M., & Bigsby, E. (Accepted). The influence of recommendation source on psychological reactance: A study among Black, Latino, and White participants. *Communication Monographs*.
+
 **Yan, J.**, Wilson, S. R., & Liao, D. (2025). Imagine your immune system is a sports team: Language expectancies in the use of physician analogies and jargon. *Patient Education & Counseling*. <https://doi.org/10.1016/j.pec.2025.108810>
 
 **Yan, J.**, & Bigsby, E. (2025). Explicating college students’ COVID-19 prevention behaviors: Integrating information seeking and response efficacy into the reasoned action approach. *Journal of American College Health*. <https://doi.org/10.1080/07448481.2025.2451978>
