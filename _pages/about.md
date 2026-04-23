@@ -50,8 +50,6 @@ Liao, D., **Yan, J.**, & Wilson, S. R. (2023). How does physician (non)accommoda
 
 
 ## Work in Progress
-**Yan, J.**, Guntzviller, L. M., & Bigsby, E. (R&R Under Review). The influence of recommendation source on psychological reactance: A study among Black, Latino, and White participants. *Journal blinded for peer review.*
-
 **Yan, J.**, Guntzviller, L. M., Iannarino, N. T., Wang, N. O., Ray, C. D. (Under Review). Understanding young adult cancer patients’ support-seeking struggles in personal relationships. *Journal blinded for peer review.*
 
 Liao, D., Hildenbrand, G., **Yan, J.**, & Chen, H. (Revise & Resubmit). Do actions speak louder? The primacy of verbal person-centeredness for patients with invisible illness. *Journal blinded for peer review.*
