@@ -68,7 +68,7 @@ For questions, access to publications, or to discuss potential collaborations, f
   *Department of Communication, University of Illinois Urbana-Champaign* <br>
   *Competitive award recognizing distinguished graduate student scholarship.*
 
-- *2026* **Hale Conference Travel Fund** ($1000)<br>
+- *2026* **Hale Conference Travel Award** ($1000)<br>
   Department of Communication, University of Illinois Urbana-Champaign
   
 - *2025* **Ruth Anne Clark Award** ($1600 for dissertation research)<br>
@@ -80,8 +80,8 @@ For questions, access to publications, or to discuss potential collaborations, f
 - *2023–2025*	**Friends Conference Travel Award** (Total: $2800) <br>
   Department of Communication, University of Illinois Urbana-Champaign
 
-- *2018–2025* **Teacher Ranked as Excellent** <br>
-  Fall 2018, Fall 2020\*, Spring 2021, Fall 2021, Spring 2022\*, Fall 2022, Spring 2023\*, Fall 2023\*, Spring 2024\*, Fall 2024\*, Spring 2025* <br>
+- *2020–2025* **Teacher Ranked as Excellent** <br>
+  Fall 2020\*, Spring 2021, Fall 2021, Spring 2022\*, Fall 2022, Spring 2023\*, Fall 2023\*, Spring 2024\*, Fall 2024\*, Spring 2025* <br>
   *University of Illinois Urbana-Champaign* <br>
   *\*Denotes outstanding rating for top 10% of graduate instructors/ teaching assistants among campus*
   
@@ -97,7 +97,7 @@ For questions, access to publications, or to discuss potential collaborations, f
 
 <span class='anchor' id='teaching'></span>
 # 📚 Teaching
-*Overall teaching effectiveness: 4.54/5* <br>
+*Average teaching effectiveness rating: 4.54/5* <br>
 
 **Instructor of Record**
 - CMN101 Public Speaking
