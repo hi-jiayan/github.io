@@ -97,6 +97,8 @@ For questions, access to publications, or to discuss potential collaborations, f
 
 <span class='anchor' id='teaching'></span>
 # 📚 Teaching
+*Overall teaching effectiveness: 4.54/5* <br>
+
 **Instructor of Record**
 - CMN101 Public Speaking
 - CMN336 Family Communication
