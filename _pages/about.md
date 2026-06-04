@@ -74,7 +74,7 @@ For questions, access to publications, or to discuss potential collaborations, f
 - *2025* **Ruth Anne Clark Award** ($1600 for dissertation research)<br>
   *Department of Communication, University of Illinois Urbana-Champaign*
   
-- *2024-2025* **Marion Morse Wood Fellowship** ($12000)<br>
+- *2024–2025* **Marion Morse Wood Fellowship** ($12000)<br>
   *Graduate College, University of Illinois Urbana-Champaign*
 
 - *2023–2025*	**Friends Conference Travel Award** (Total: $2800) <br>
