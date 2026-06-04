@@ -38,17 +38,17 @@ For questions, access to publications, or to discuss potential collaborations, f
 
 - **Yan, J.**, Guntzviller, L. M., & Bigsby, E. (Accepted). The influence of recommendation source on psychological reactance: A study among Black, Latino, and White participants. *Communication Monographs*.
 
-- **Yan, J.**, Wilson, S. R., & Liao, D. (2025). Imagine your immune system is a sports team: Language expectancies in the use of physician analogies and jargon. *Patient Education & Counseling*. <https://doi.org/10.1016/j.pec.2025.108810>
+- **Yan, J.**, Wilson, S. R., & Liao, D. (2025). Imagine your immune system is a sports team: Language expectancies in the use of physician analogies and jargon. *Patient Education & Counseling, 137,* 108810. <https://doi.org/10.1016/j.pec.2025.108810>
 
-- **Yan, J.**, & Bigsby, E. (2025). Explicating college students’ COVID-19 prevention behaviors: Integrating information seeking and response efficacy into the reasoned action approach. *Journal of American College Health*. <https://doi.org/10.1080/07448481.2025.2451978>
+- **Yan, J.**, & Bigsby, E. (2025). Explicating college students’ COVID-19 prevention behaviors: Integrating information seeking and response efficacy into the reasoned action approach. *Journal of American College Health, 73*(4), 1825–1836. <https://doi.org/10.1080/07448481.2025.2451978>
 
-- Liao, D., **Yan, J.**, & Wilson, S. R. (2025). Beyond the words: How physicians’ verbal and nonverbal communication shape patients’ intentions to seek health information. *Health Communication*. <https://doi.org/10.1080/10410236.2025.2585307>
+- Liao, D., **Yan, J.**, & Wilson, S. R. (2025). Beyond the words: How physicians’ verbal and nonverbal communication shape patients’ intentions to seek health information. *Health Communication*, Advance online publication. <https://doi.org/10.1080/10410236.2025.2585307>
 
 - Quick, B., \*Caban, S., \*Chung, M., & **\*Yan, J.** (2025). Introducing Health Communication Science to Mental Health Researchers: An Examination of Information Seeking, Processing, and Dissemination Frameworks. In Yzer, M. & Siegal, J. (Eds.), *The Handbook of Mental Health Communication*. John Wiley & Sons. *\*Authors contributed equally and are listed in alphabetical order*
 
-- Thompson, C. M., Bishop, M. J., Dillard, T. C., Maurice, J. M., Rollins, D. D., Pulido, M. D., Salas, M. J., Mendelson, E. A., **Yan, J.**, Gerlikovski, E. R., Benevento, S. V., Zeinstra, C., & Kesavadas, T. (2025). Healing health care disparities: A pilot test of a virtual reality implicit bias training module for physicians in the context of Black maternal health. *Health Communication*. <https://doi.org/10.1080/10410236.2024.2347000>
+- Thompson, C. M., Bishop, M. J., Dillard, T. C., Maurice, J. M., Rollins, D. D., Pulido, M. D., Salas, M. J., Mendelson, E. A., **Yan, J.**, Gerlikovski, E. R., Benevento, S. V., Zeinstra, C., & Kesavadas, T. (2025). Healing health care disparities: A pilot test of a virtual reality implicit bias training module for physicians in the context of Black maternal health. *Health Communication, 40*(3), 445-456. <https://doi.org/10.1080/10410236.2024.2347000>
 
-- Liao, D., **Yan, J.**, & Wilson, S. R. (2023). How does physician (non)accommodation affect patient behavioral intention? Using a web-based experiment to examine indirect effects of language type on behavioral intentions through goal inferences and source appraisals. *Journal of Health Communication*. <https://doi.org/10.1080/10810730.2023.2237435>
+- Liao, D., **Yan, J.**, & Wilson, S. R. (2023). How does physician (non)accommodation affect patient behavioral intention? Using a web-based experiment to examine indirect effects of language type on behavioral intentions through goal inferences and source appraisals. *Journal of Health Communication, 28*(9), 585-594. <https://doi.org/10.1080/10810730.2023.2237435>
 
 
 ## Work in Progress
@@ -97,7 +97,7 @@ For questions, access to publications, or to discuss potential collaborations, f
 
 <span class='anchor' id='teaching'></span>
 # 📚 Teaching
-*Average teaching effectiveness rating: 4.54/5* <br>
+*Average teaching effectiveness rating: 4.55/5* <br>
 
 **Instructor of Record**
 - CMN101 Public Speaking
