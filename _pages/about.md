@@ -36,7 +36,11 @@ For questions, access to publications, or to discuss potential collaborations, f
 <span class='anchor' id='publications'></span>
 # 📝 Publications 
 
-- **Yan, J.**, Guntzviller, L. M., & Bigsby, E. (Accepted). The influence of recommendation source on psychological reactance: A study among Black, Latino, and White participants. *Communication Monographs*.
+- Liao, D., Hildenbrand, G., **Yan, J.**, & Chen, H. (accepted). Do actions speak louder? The primacy of verbal person-centeredness for patients with invisible illness. *Communication Monographs*.
+  
+- **Yan, J.**, Guntzviller, L. M., & Bigsby, E. (in press). The influence of recommendation source on psychological reactance: A study among Black, Latino, and White participants. *Communication Monographs*.
+
+- Guntzviller, L. M., Caughlin, J. P., **Yan, J.**, & Han, J. (in press). Historical Landscape of Support Theory. In Faw, H., Pederson, J. R., Holmstrom, A. J., & High, A. C. (Eds.), *The Routledge Handbook of Supportive Communication*. 
 
 - **Yan, J.**, Wilson, S. R., & Liao, D. (2025). Imagine your immune system is a sports team: Language expectancies in the use of physician analogies and jargon. *Patient Education & Counseling, 137,* 108810. <https://doi.org/10.1016/j.pec.2025.108810>
 
@@ -52,15 +56,15 @@ For questions, access to publications, or to discuss potential collaborations, f
 
 
 ## Work in Progress
-- **Yan, J.**, Guntzviller, L. M., Iannarino, N. T., Wang, N. O., Ray, C. D. (Under Review). Understanding young adult cancer patients’ support-seeking struggles in personal relationships. *Journal blinded for peer review.*
+- **Yan, J.**, Guntzviller, L. M., Iannarino, N. T., Wang, N. O., Ray, C. D. (revise & resubmit). Understanding young adult cancer patients’ support-seeking struggles in personal relationships. *Journal blinded for peer review.*
 
-- Liao, D., Hildenbrand, G., **Yan, J.**, & Chen, H. (R&R Under Review). Do actions speak louder? The primacy of verbal person-centeredness for patients with invisible illness. *Journal blinded for peer review.*
+- **Yan, J.**, & Guntzviller, L. M. (manuscript in preparation). From stigma to strategy: How cultural and relational contexts shape college students’ mental health support seeking. 
 
-- Guntzviller, L. M., Caughlin, J. P., **Yan, J.**, & Han, J. (Expected 2026). Historical Landscape of Support Theory. In Faw, H., Pederson, J. R., Holmstrom, A. J., & High, A. C. (Eds.), *The Routledge Handbook of Supportive Communication*. 
+- Guntzviller, L. M., **Yan, J.**, Bigsby, E., Liao, D., Pool, K. E., Kelpinski, L. F., & Jacobs Farnworth, M. (manuscript in preparation). Considering the role of the advisor and their characteristics within advice response theory: Testing and comparing three models across White, Black, and Latino participants.
 
-- **Yan, J.** (Manuscript in Preparation). From stigma to strategy: How cultural and relational contexts shape emerging adults’ mental health support seeking. 
+- **Yan, J.**, & Guntzviller, L. M. (data analysis). Beyond direct and indirect: Expanding the conceptualization of mental health support-seeking strategies in parent-child communication. 
 
-- Guntzviller, L. M., **Yan, J.**, Bigsby, E., Liao, D., Pool, K. E., Kelpinski, L. F., & Jacobs Farnworth, M. (Manuscript in Preparation). Considering the role of the advisor and their characteristics within advice response theory: Testing and comparing three models across White, Black, and Latino participants. 
+- **Yan, J.**, & Mai, S. (data analysis). Planning mental health support-seeking conversations: A communication intervention for college students.
 
 <span class='anchor' id='honors'></span>
 # 🎖 Funding, Honors, and Awards
