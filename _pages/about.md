@@ -38,7 +38,7 @@ For questions, access to publications, or to discuss potential collaborations, f
 
 - Liao, D., Hildenbrand, G., **Yan, J.**, & Chen, H. (accepted). Do actions speak louder? The primacy of verbal person-centeredness for patients with invisible illness. *Communication Monographs*.
   
-- **Yan, J.**, Guntzviller, L. M., & Bigsby, E. (in press). The influence of recommendation source on psychological reactance: A study among Black, Latino, and White participants. *Communication Monographs*.
+- **Yan, J.**, Guntzviller, L. M., & Bigsby, E. (2026). The influence of recommendation source on psychological reactance: A study among Black, Latino, and White participants. *Communication Monographs*. <https://doi.org/10.1080/03637751.2026.2687654>
 
 - Guntzviller, L. M., Caughlin, J. P., **Yan, J.**, & Han, J. (in press). Historical Landscape of Support Theory. In Faw, H., Pederson, J. R., Holmstrom, A. J., & High, A. C. (Eds.), *The Routledge Handbook of Supportive Communication*. 
 
