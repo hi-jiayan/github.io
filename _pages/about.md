@@ -36,7 +36,7 @@ For questions, access to publications, or to discuss potential collaborations, f
 <span class='anchor' id='publications'></span>
 # 📝 Publications 
 
-- Liao, D., Hildenbrand, G., **Yan, J.**, & Chen, H. (accepted). Do actions speak louder? The primacy of verbal person-centeredness for patients with invisible illness. *Communication Monographs*.
+- Liao, D., Hildenbrand, G., **Yan, J.**, & Chen, H. (in press). Do actions speak louder? The primacy of verbal person-centeredness for patients with invisible illness. *Communication Monographs*.
   
 - **Yan, J.**, Guntzviller, L. M., & Bigsby, E. (2026). The influence of recommendation source on psychological reactance: A study among Black, Latino, and White participants. *Communication Monographs*. <https://doi.org/10.1080/03637751.2026.2687654>
 
